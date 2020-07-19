@@ -1,0 +1,9 @@
+D:\levij\source\repos\Anime Library\Anime Library\bin\Debug\Anime Library.exe.config
+D:\levij\source\repos\Anime Library\Anime Library\bin\Debug\Anime Library.exe
+D:\levij\source\repos\Anime Library\Anime Library\bin\Debug\Anime Library.pdb
+D:\levij\source\repos\Anime Library\Anime Library\obj\Debug\Anime Library.csprojAssemblyReference.cache
+D:\levij\source\repos\Anime Library\Anime Library\obj\Debug\Anime_Library.Properties.Resources.resources
+D:\levij\source\repos\Anime Library\Anime Library\obj\Debug\Anime Library.csproj.GenerateResource.cache
+D:\levij\source\repos\Anime Library\Anime Library\obj\Debug\Anime Library.exe
+D:\levij\source\repos\Anime Library\Anime Library\obj\Debug\Anime Library.pdb
+D:\levij\source\repos\Anime Library\Anime Library\obj\Debug\Anime_Library.AnimeLibrary.resources
