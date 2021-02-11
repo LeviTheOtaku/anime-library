@@ -35,8 +35,6 @@ namespace Anime_Library
                 {
                     if (word.Contains("category"))
                     {
-                        try
-                        {
                             int pFrom = word.IndexOf("href=\\\"category\\/") + "href=\\\"category\\/".Length;
                             int pTo = word.LastIndexOf("\\\"");
 
@@ -45,20 +43,16 @@ namespace Anime_Library
                             result = UpperCaseFirstLetter(result);
 
 
-                            ToolTip toolTip = new ToolTip();
+                        ToolTip toolTip = new ToolTip();
                             toolTip.InitialDelay = 150;
                             toolTip.ReshowDelay = 500;
                             toolTip.ShowAlways = true;
                             toolTip.Tag = result;
                             current = toolTip;
-                        }
-                        catch { }
                     }
 
-                    if (word.Contains("cdnimg.xyz"))
+                    if (word.Contains("cdn"))
                     {
-                        try
-                        {
                             string animePicture;
                             animePicture = word.Replace("\\", "");
                             int first = animePicture.IndexOf("\"") + 1;
@@ -113,8 +107,6 @@ namespace Anime_Library
 
 
                             });
-                        }
-                        catch { }
                     }
 
                 }
